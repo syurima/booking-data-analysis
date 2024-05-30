@@ -4,7 +4,12 @@ import random
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.support.wait import WebDriverWait
+#from selenium import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
 import pandas as pd
 import requests
 
@@ -43,9 +48,9 @@ def create_url(city: str, date: datetime.datetime, n_of_adults = 1, n_of_childre
     print(url)
     return url
 
-def generate_params(city: str, date_min_offset: int, date_max_offset: int, max_adults: int, max_children: int) -> dict:
+def generate_params(city: str, date_start: datetime.datetime, date_max_offset: int, max_adults: int, max_children: int) -> dict:
     
-    date = datetime.datetime.today() + datetime.timedelta(days=random.randint(date_min_offset, date_max_offset))
+    date = date_start + datetime.timedelta(days=random.randint(0,date_max_offset))
     n_of_adults = random.randint(1, max_adults)
     if random.random(): n_of_children = random.randint(0, max_children)
     else: n_of_children = 0
@@ -62,8 +67,8 @@ class page_loaded:
     def __call__(self, driver):
         document_ready = driver.execute_script("return document.readyState;") == "complete"
         jquery_ready = driver.execute_script("return jQuery.active == 0;")
-        print(f"document ready: [({type(document_ready).__name__}){document_ready}]")
-        print(f"jquery  ready: [({type(jquery_ready).__name__}){jquery_ready}]")
+        #print(f"document ready: [({type(document_ready).__name__}){document_ready}]")
+        #print(f"jquery  ready: [({type(jquery_ready).__name__}){jquery_ready}]")
         return document_ready and jquery_ready
 
 def scroll(driver) -> None:
@@ -75,44 +80,41 @@ def scroll(driver) -> None:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
         # Wait to load page
-        time.sleep(random.uniform(1.4, 5.8))
+        time.sleep(random.uniform(1.5, 3.4))
 
         # Calculate new scroll height and compare with last scroll height
         new_height = driver.execute_script("return document.body.scrollHeight")
+
         if new_height == last_height:
+            driver.execute_script(f"scrollBy(0,{random.randint(-600, -500)});")
+            time.sleep(random.uniform(1.5, 3.6))
             break
+
         last_height = new_height
  
-def get_soup_selenium(url):
-    driver = webdriver.Chrome()
-    atexit.register(driver.quit)
-    driver.maximize_window()
-    
+def get_soup(driver, url):
     driver.get(url)
-    WebDriverWait(driver, 20, 1).until(page_loaded(), f"Page could not load in {20} s.!")
-    scroll(driver)
+    WebDriverWait(driver, 15, 1).until(page_loaded(), f"Page could not load in {15} s.!")
+    while True:
+        scroll(driver)
+
+        # load more
+        time.sleep(random.uniform(1.7, 4))
+        try:
+            #load_more_button = driver.find_element(By.XPATH, "//button[.//span[text()='Load more results']]")
+            load_more_button = driver.find_element(By.XPATH, "//button[@class='a83ed08757 c21c56c305 bf0537ecb5 f671049264 deab83296e af7297d90d']//span[text()='Load more results']")
+            if not load_more_button: print('no button')
+            else:
+                load_more_button.click()
+        except Exception as e:
+            #print(f"Load more button could not be clicked: {e}")
+            break
+
+        time.sleep(random.uniform(1.5, 4))
 
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     return soup
 
-# html bez selenium (nie scrolluje)
-def get_soup(url):
-    
-    headers = {
-    'User-Agent': 'Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36',
-    'Accept-Language': 'en-US, en;q=0.5'
-    }
-    html = requests.get(url, headers=headers)
-
-    '''
-    filename = f'html_{datetime.datetime.now()}.txt'.replace(':', '-')
-    file = open(filename, 'w+', encoding='utf-8')
-    file.write(html.text)
-    '''
-
-    # soupify
-    soup = BeautifulSoup(html.content, 'html.parser')
-    return soup
 
 def get_data(soup, date=None, n_of_adults=1, n_of_children=0):
     # find all hotel elements in the html
@@ -129,16 +131,19 @@ def get_data(soup, date=None, n_of_adults=1, n_of_children=0):
         stars = len(hotel.find_all('span', {'class': 'fcd9eec8fb d31eda6efc c25361c37f'}))
 
         # price
-        price = hotel.find('span', {'data-testid': 'price-and-discounted-price'}).text.replace(',', '').split()[1]
+        price_elem = hotel.find('span', {'data-testid': 'price-and-discounted-price'})
+        price = price_elem.text.replace(',', '').split()[1] if price_elem else None
 
         # rating
-        rating = hotel.find('div', {'class': 'a3b8729ab1 d86cee9b25'}).text.split()[-1]
-        n_of_opinions = hotel.find('div', {'class': 'abf093bdfe f45d8e4c32 d935416c47'}).text.replace(',', '').split()[0]
+        rating_elem = hotel.find('div', {'class': 'a3b8729ab1 d86cee9b25'})
+        rating = rating_elem.text.split()[-1] if rating_elem else None
+        opinions_elem = hotel.find('div', {'class': 'abf093bdfe f45d8e4c32 d935416c47'})
+        n_of_opinions = opinions_elem.text.replace(',', '').split()[0] if opinions_elem else None
 
         # distance to city center
-        location = hotel.find('span', {'data-testid': 'distance'}).text
-        distance = float(location.split()[0])
-        if 'km' in location: distance *= 1000
+        location_elem = hotel.find('span', {'data-testid': 'distance'})
+        distance = float(location_elem.text.split()[0]) if location_elem else None
+        if 'km' in location_elem.text: distance *= 1000
 
         # room info
         room_type = soup.find('h4', class_='abf093bdfe e8f7c070a7').text.strip()
@@ -150,9 +155,10 @@ def get_data(soup, date=None, n_of_adults=1, n_of_children=0):
         hotels_data.append({
             'name': name,
             'stars': stars,
-            'price': float(price),
-            'rating': float(rating),
-            'opinions': int(n_of_opinions),
+            'price': price,
+            'price_per_person': round(float(price)/(n_of_adults + n_of_children), 2) if price else None,
+            'rating': rating,
+            'opinions': n_of_opinions,
             'distance_from_centre': distance,
             #'room_type': room_type,
             'free_cancellation': free_cancellation,
@@ -161,30 +167,46 @@ def get_data(soup, date=None, n_of_adults=1, n_of_children=0):
 
     return hotels_data
 
-def save_data(data):
+def save_data(data, params):
     #turn into pd dataframe
     df = pd.DataFrame(data)
-    print(df.head(5))
+    #print(df.head(5))
 
     #save as csv
-    df.to_csv(f'data/data_{datetime.datetime.now()}.csv'.replace(':', '.'), header=True, index=False, encoding='utf-8')
+    #df.to_csv(f'data/data_{datetime.datetime.now()}.csv'.replace(':', '.'), header=True, index=False, encoding='utf-8')
+    df.to_csv(f'data/{params['city']}_{params['date'].strftime('%Y-%m-%d')}_a{params['adults']}_c{params['children']}.csv', header=True, index=False, encoding='utf-8')
 
+def run_iteration(driver, url = None):
+    # generate random url
+    if not url: 
+        params = generate_params(city='Amsterdam', date_start=datetime.datetime.today() + datetime.timedelta(days=40), date_max_offset=420, max_adults=10, max_children=0)
+        url = create_url(params['city'], params['date'], params['adults'], params['children'])
 
-def main():
-    #url = create_url(city='Amsterdam', date = None)
-    params = generate_params(city='Amsterdam', date_min_offset=30, date_max_offset=400, max_adults=4, max_children=2)
+    soup = get_soup(driver, url)
 
-    url = create_url(params['city'], params['date'], params['adults'], params['children'])
-    soup = get_soup_selenium(url)
-    #soup = get_soup(url)
-
-    hotels_data = get_data(soup)
+    hotels_data = get_data(soup, n_of_adults = params['adults'], n_of_children = params['children'])
     for log in hotels_data:
         log.update(params)
-        #print(log)
-    print(hotels_data[1])
-    save_data(hotels_data)
-    
+
+    #print(hotels_data[1])
+    save_data(hotels_data, params)
+        
+
+def main():
+    # set up driver
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument("--no-sandbox")
+
+    driver = webdriver.Chrome(service=Service(), options=chrome_options)
+    atexit.register(driver.quit)
+    driver.maximize_window()
+
+    n = 18
+    for _ in range(n):
+        run_iteration(driver)
+        time.sleep(random.uniform(1.5, 4))
+
+    driver.quit()
 
 if __name__ == "__main__":
     main()
