@@ -4,7 +4,6 @@ import random
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
-#from selenium import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -48,12 +47,11 @@ def create_url(city: str, date: datetime.datetime, n_of_adults = 1, n_of_childre
     print(url)
     return url
 
-def generate_params(city: str, date_start: datetime.datetime, date_max_offset: int, max_adults: int, max_children: int) -> dict:
+def generate_params(city: str, date_start: datetime.date, date_max_offset: int, max_adults: int, max_children: int) -> dict:
     
     date = date_start + datetime.timedelta(days=random.randint(0,date_max_offset))
     n_of_adults = random.randint(1, max_adults)
-    if random.random(): n_of_children = random.randint(0, max_children)
-    else: n_of_children = 0
+    n_of_children = random.randint(0, max_children)
 
     params = {
         'city': city,
@@ -173,13 +171,12 @@ def save_data(data, params):
     #print(df.head(5))
 
     #save as csv
-    #df.to_csv(f'data/data_{datetime.datetime.now()}.csv'.replace(':', '.'), header=True, index=False, encoding='utf-8')
     df.to_csv(f'data/{params['city']}_{params['date'].strftime('%Y-%m-%d')}_a{params['adults']}_c{params['children']}.csv', header=True, index=False, encoding='utf-8')
 
 def run_iteration(driver, url = None):
     # generate random url
     if not url: 
-        params = generate_params(city='Amsterdam', date_start=datetime.datetime.today() + datetime.timedelta(days=40), date_max_offset=420, max_adults=10, max_children=0)
+        params = generate_params(city='Amsterdam', date_start=datetime.date.today() + datetime.timedelta(days=30), date_max_offset=400, max_adults=9, max_children=0)
         url = create_url(params['city'], params['date'], params['adults'], params['children'])
 
     soup = get_soup(driver, url)
