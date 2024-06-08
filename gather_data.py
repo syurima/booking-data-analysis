@@ -198,7 +198,7 @@ def main():
     atexit.register(driver.quit)
     driver.maximize_window()
 
-    n = 18
+    n = 20
     for _ in range(n):
         run_iteration(driver)
         time.sleep(random.uniform(1.5, 4))
