@@ -1,0 +1,27 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Hans Brinker Hostel Amsterdam,0,192,32.0,7.8,10213,1100.0,True,False,Amsterdam,2025-04-06,6,0
+Postillion Hotel Amsterdam,4,565,94.17,8.6,10075,4800.0,True,False,Amsterdam,2025-04-06,6,0
+MEININGER Hotel Amsterdam Amstel,0,233,38.83,8.1,4500,3500.0,True,False,Amsterdam,2025-04-06,6,0
+MEININGER Hotel Amsterdam City West,0,205,34.17,8.1,6462,4300.0,True,False,Amsterdam,2025-04-06,6,0
+Via Amsterdam,3,278,46.33,8.1,17055,6600.0,True,False,Amsterdam,2025-04-06,6,0
+Budget Hotel Tourist Inn,2,291,48.5,7.6,4356,350.0,True,False,Amsterdam,2025-04-06,6,0
+Chasse Hotel,4,378,63.0,8.7,3760,2200.0,True,False,Amsterdam,2025-04-06,6,0
+Travel Hotel Amsterdam,2,278,46.33,6.5,2013,350.0,True,False,Amsterdam,2025-04-06,6,0
+Generator Amsterdam,3,343,57.17,7.8,5161,2200.0,True,False,Amsterdam,2025-04-06,6,0
+Hotel Old Quarter,2,474,79.0,7.4,3510,500.0,True,False,Amsterdam,2025-04-06,6,0
+Gypsy Waggon - A villa on wheels,3,206,34.33,7.0,59,7200.0,True,False,Amsterdam,2025-04-06,6,0
+Delta Hotel City Center,3,401,66.83,6.6,3570,400.0,True,False,Amsterdam,2025-04-06,6,0
+Amsterdam ID Aparthotel,3,746,124.33,8.7,1815,4300.0,True,False,Amsterdam,2025-04-06,6,0
+Amsterdam Marriott Hotel,5,1727,287.83,8.0,1762,1500.0,True,False,Amsterdam,2025-04-06,6,0
+Conservatorium Hotel,5,4882,813.67,8.9,313,1900.0,True,False,Amsterdam,2025-04-06,6,0
+Amsterdam Teleport Hotel,3,402,67.0,7.6,8615,4300.0,True,False,Amsterdam,2025-04-06,6,0
+Hotel Continental Amsterdam,1,390,65.0,5.4,2308,400.0,True,False,Amsterdam,2025-04-06,6,0
+The Social Hub Amsterdam City,4,878,146.33,8.4,8149,2400.0,True,False,Amsterdam,2025-04-06,6,0
+The Alfred Hotel,3,11147,1857.83,7.3,5800,2600.0,True,False,Amsterdam,2025-04-06,6,0
+Amigo Hotel,0,2229,371.5,5.9,2980,3000.0,True,False,Amsterdam,2025-04-06,6,0
+Hotel Damrak Inn,2,1115,185.83,7.1,1785,300.0,True,False,Amsterdam,2025-04-06,6,0
+Hotel King's Court,3,11146,1857.67,7.8,1426,4000.0,True,False,Amsterdam,2025-04-06,6,0
+YOTEL Amsterdam,4,419,69.83,8.1,8748,2200.0,True,False,Amsterdam,2025-04-06,6,0
+Hotel Atlantis Amsterdam,3,331,55.17,7.0,2819,2100.0,True,False,Amsterdam,2025-04-06,6,0
+Hampton By Hilton Amsterdam Arena Boulevard,3,460,76.67,8.1,12391,7600.0,True,False,Amsterdam,2025-04-06,6,0
+OZO Hotels Arena Amsterdam,4,401,66.83,7.4,8325,8400.0,True,False,Amsterdam,2025-04-06,6,0

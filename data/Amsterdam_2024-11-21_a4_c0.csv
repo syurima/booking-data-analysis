@@ -1,0 +1,380 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Hampton By Hilton Amsterdam Arena Boulevard,3,332,83.0,8.1,12391,7600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Postillion Hotel Amsterdam,4,354,88.5,8.6,10075,4800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Via Amsterdam,3,137,34.25,8.1,17055,6600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+OZO Hotels Arena Amsterdam,4,301,75.25,7.4,8325,8400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel City Garden Amsterdam,3,165,41.25,7.1,3715,1900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ClinkNOORD Hostel,0,211,52.75,8.0,15296,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Library Amsterdam,3,230,57.5,8.0,3312,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Travel Hotel Amsterdam,2,117,29.25,6.5,2013,350.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Fletcher Hotel Amsterdam,4,377,94.25,7.3,3808,9400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Levell,3,189,47.25,8.2,15037,8600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+easyHotel Amsterdam Arena Boulevard,0,183,45.75,7.3,7536,7500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+MEININGER Hotel Amsterdam City West,0,153,38.25,8.1,6462,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Heart of Amsterdam Hotel,0,229,57.25,7.4,2821,300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Apple Inn Hotel,3,198,49.5,7.7,1716,2800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Stayokay Hostel Amsterdam Vondelpark,0,188,47.0,8.4,6034,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Generator Amsterdam,3,187,46.75,7.8,5161,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NH City Centre Amsterdam,4,378,94.5,8.2,4919,450.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Van Gogh,3,215,53.75,8.0,4286,1800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Tribe Amsterdam City,4,221,55.25,9.0,6454,4200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"The Hoxton, Lloyd Amsterdam",4,344,86.0,8.8,842,2800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Corner House,1,319,79.75,7.7,1603,200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Volkshotel,0,318,79.5,8.6,4886,2500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Alfred Hotel,3,256,64.0,7.3,5800,2600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Iron Horse Amsterdam,3,262,65.5,7.4,1913,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Leonardo Royal Hotel Amsterdam,4,318,79.5,8.2,7792,4800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ibis Amsterdam Centre,3,266,66.5,7.7,9279,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Stayokay Hostel Amsterdam Oost,0,175,43.75,8.1,3867,3000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Cityden BoLo District,4,327,81.75,8.4,4982,3300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+INNSiDE by Meliá Amsterdam,4,619,154.75,8.6,6041,4000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Avenue Hotel,3,343,85.75,7.3,4721,450.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Espresso,3,322,80.5,7.4,1965,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel JL No76,4,365,91.25,8.2,1646,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Mercure Amsterdam City Hotel,4,323,80.75,8.3,4043,4400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+MEININGER Hotel Amsterdam Amstel,0,191,47.75,8.1,4500,3500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+France Hotel,3,271,67.75,7.4,3559,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Arcade Hotel Amsterdam,3,294,73.5,7.8,1843,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Old Quarter,2,262,65.5,7.4,3510,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel CC,3,349,87.25,7.9,5314,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Nes,3,360,90.0,8.1,3423,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Pension Homeland,0,290,72.5,8.7,3525,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Bank Hotel,3,385,96.25,8.0,2052,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+SUPPER Hotel,4,330,82.5,7.3,678,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Fine Harmony,3,284,71.0,7.9,1577,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Eden Hotel Amsterdam,4,410,102.5,8.2,9627,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam ID Aparthotel,3,533,133.25,8.7,1815,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Roemer Amsterdam,4,325,81.25,7.9,2287,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Mercure Amsterdam North Station,4,332,83.0,8.9,3944,4200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Budget Hotel Tourist Inn,2,274,68.5,7.6,4356,350.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Catalonia Vondel Amsterdam,4,409,102.25,8.4,133,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Mercure Amsterdam Sloterdijk Station,4,332,83.0,8.4,5013,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The July - Boat & Co,4,473,118.25,9.2,2121,2500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Teleport Hotel,3,156,39.0,7.6,8615,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Melrose Hotel,3,325,81.25,7.7,2502,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Max Brown Hotel Canal District, part of Sircle Collection",3,398,99.5,7.7,1120,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Mercier,4,456,114.0,8.5,2755,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ibis Styles Amsterdam City,3,411,102.75,8.4,2089,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ibis Styles Amsterdam Amstel,3,411,102.75,7.9,1425,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Leonardo Boutique Museumhotel,4,479,119.75,7.7,3471,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+DoubleTree by Hilton Amsterdam Centraal Station,4,616,154.0,7.7,3527,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Leonardo Hotel Amsterdam City Center,4,323,80.75,7.4,2388,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Bob W Amsterdam Noord,4,464,116.0,8.8,929,2800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Golden Mansion Aparthotel,3,313,78.25,7.7,1321,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Marriott Hotel,5,668,167.0,8.0,1762,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Element Amsterdam,4,428,107.0,8.7,1436,4700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Met Hotel Amsterdam,3,261,65.25,9.0,2613,4100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NH Collection Amsterdam Flower Market,4,540,135.0,8.5,6999,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Kimpton De Witt Amsterdam, an IHG Hotel",5,668,167.0,8.7,3004,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Max Brown Hotel Museum Square, part of Sircle Collection",3,333,83.25,7.8,1170,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The July - Twenty Eight,4,713,178.25,9.1,725,4100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Best Western Amsterdam,3,212,53.0,7.7,9415,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel van Gelder,2,331,82.75,7.5,2435,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hans Brinker Hostel Amsterdam,0,206,51.5,7.8,10213,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Unbound Amsterdam,4,446,111.5,8.5,1976,7500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Huygens Place Amsterdam,4,533,133.25,8.6,3160,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+XO Hotels Blue Square,3,187,46.75,7.9,7365,5000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Sixteen,3,455,113.75,7.6,892,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Monet Garden Hotel Amsterdam,4,644,161.0,8.9,5213,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Quentin Zoo hotel,4,437,109.25,7.8,1635,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Sir Adam Hotel, part of Sircle Collection",4,634,158.5,8.7,1476,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Fita,3,660,165.0,8.7,1613,1800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Sir Albert Hotel, part of Sircle Collection",4,545,136.25,8.1,531,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Sofitel Legend The Grand Amsterdam,5,1209,302.25,9.0,946,250.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Mansion,3,377,94.25,7.8,2063,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Boutique Hotel Notting Hill,4,488,122.0,8.7,3368,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam House Hotel,3,635,158.75,7.7,1950,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Wiechmann Hotel,2,346,86.5,8.5,4014,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Weber Hotel 117,2,430,107.5,7.9,489,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Bolster,3,409,102.25,7.4,1242,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Krisotel,3,488,122.0,8.4,3002,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+La Corte Sconta B&B,0,483,120.75,9.0,264,6400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+XO Hotels Park West,4,244,61.0,8.5,10380,3400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"art'otel amsterdam, Powered by Radisson Hotels",4,1494,373.5,8.8,2847,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Conservatorium Hotel,5,2369,592.25,8.9,313,1900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Olympic Hotel,4,350,87.5,8.5,9897,4400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Downtown Hotel,2,892,223.0,7.0,2257,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel TwentySeven - Small Luxury Hotels of the World,5,2118,529.5,9.7,238,50.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Not Hotel Amsterdam,0,227,56.75,7.3,1115,2300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+De L’Europe Amsterdam – The Leading Hotels of the World,5,10176,2544.0,8.8,468,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Citiez Hotel Amsterdam,3,236,59.0,8.1,3126,6200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Damrak Inn,2,227,56.75,7.1,1785,300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Bunk Hotel Amsterdam,3,310,77.5,8.5,5004,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Johan's B&B met dakterras - since 2014,0,316,79.0,8.7,186,5800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Quentin Arrive Hotel,1,177,44.25,5.7,1067,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Quentin England Hotel,2,215,53.75,6.3,1548,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Aston City Hotel,2,167,41.75,4.9,927,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+XO Hotels Infinity,3,211,52.75,7.7,7132,5000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Owl Hotel,3,270,67.5,7.9,1793,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+XO Hotels City Centre,3,328,82.0,7.1,5831,350.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel de Munck,2,223,55.75,7.6,1457,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Urban Lodge Hotel,4,325,81.25,7.9,3990,4200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Torenzicht,1,225,56.25,7.4,2170,350.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Delta Hotel City Center,3,273,68.25,6.6,3570,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Bastion Hotel Amsterdam Amstel,3,229,57.25,7.0,2678,5000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Budget Trianon Hotel,2,164,41.0,6.8,2616,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+XO Hotels Blue Tower,4,236,59.0,8.1,7396,3300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Chassé Hotel Residency,4,370,92.5,8.9,1300,3200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Alexander,3,379,94.75,8.0,2005,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Washington,2,331,82.75,7.2,2598,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Heye 130,0,241,60.25,8.1,1300,2300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+New West Inn Amsterdam,3,265,66.25,7.2,8654,6800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+De Mallemoolen,0,210,52.5,6.7,1189,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Prins Hendrik,3,305,76.25,8.0,4732,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Chasse Hotel,4,446,111.5,8.7,3760,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Bob W Oosterpark,4,354,88.5,9.0,366,3100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+i hotel,3,223,55.75,7.2,1359,2600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Houseboat-Amsterdam,3,474,118.5,9.0,219,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+easyHotel Amsterdam City Centre South,0,273,68.25,6.7,3987,2300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Rembrandt Square Hotel,1,233,58.25,6.8,1756,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Train Lodge Amsterdam,0,300,75.0,8.1,2327,3900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Social Hub Amsterdam City,4,976,244.0,8.4,8149,2400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel & bar Royal taste Amsterdam,0,286,71.5,7.9,1161,450.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Hendrick's Hotel,4,510,127.5,9.1,1515,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Continental Amsterdam,1,203,50.75,5.4,2308,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NL Hotel District Leidseplein,3,295,73.75,7.9,1056,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Nice 2 double Bed in sunny House in Amsterdam west,3,222,55.5,7.5,4,3000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Luxury room with private bathroom on great location.,0,271,67.75,,,2800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Mosaic City Centre,3,557,139.25,7.7,3914,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Flying Pig Uptown,0,240,60.0,7.9,3613,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Hortus,0,280,70.0,8.0,3304,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Koopermoolen,2,350,87.5,7.4,2916,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+St Christophers Inn at The Winston,0,271,67.75,7.9,2362,250.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Vondel Garden City Centre,3,365,91.25,6.9,990,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Nicolaas Witsen,3,475,118.75,8.7,1104,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Stanley Collection Hotel Hegra Amsterdam,3,490,122.5,8.0,645,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Amstelzicht,3,455,113.75,8.1,1490,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ITC Hotel,2,262,65.5,6.4,1644,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Nova Apartments Amsterdam,4,434,108.5,8.7,264,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+BackStage Hotel,0,463,115.75,8.3,1807,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Linden Hotel,3,463,115.75,9.1,2101,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+City Hotel,2,240,60.0,6.5,1187,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Jesse,1,180,45.0,6.3,1044,200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Houseboat Captain's Quarters in Harbour Amsterdam,0,547,136.75,8.5,14,3800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Concert Hotel,3,375,93.75,7.7,2503,2300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam-Houseboat-Amstel,3,478,119.5,8.8,211,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Oscar,3,390,97.5,7.2,1104,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Damsquare,3,432,108.0,7.3,2254,150.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Mosaic Appartments,3,692,173.0,7.5,266,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Weber Hotel,2,386,96.5,8.1,1350,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Crown Hotel,1,273,68.25,5.2,1338,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Dockside Flats,3,302,75.5,7.4,118,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Acostar Hotel,2,297,74.25,7.0,1576,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Manofa,2,412,103.0,7.2,4422,350.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"All you need, a comfy place",3,337,84.25,8.1,97,5800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amigo Hotel,0,2229,557.25,5.9,2980,3000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Belfort Hotel,3,1114,278.5,6.3,3721,3300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Royal Amsterdam Hotel,4,476,119.0,6.5,805,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Quentin Amsterdam Hotel,3,389,97.25,5.9,1492,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel des Arts,3,717,179.25,8.4,722,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Anantara Grand Hotel Krasnapolsky Amsterdam,5,969,242.25,8.8,7342,100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Botel,3,1471,367.75,7.4,4490,3100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hostel Warmoes Amsterdam,0,687,171.75,6.3,982,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Keizersgracht Centre,3,858,214.5,,,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Sharm,2,368,92.0,7.1,649,450.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Sebastians,4,1043,260.75,8.9,1620,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Facade Hotel Amsterdam,2,892,223.0,7.3,3206,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Leidse Square 5 star Luxury Apartment,4,853,213.25,9.9,35,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Rembrandtplein Hotel,1,513,128.25,6.8,1812,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Flipper Amsterdam,2,990,247.5,6.3,1070,2900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Vossius Vondelpark,3,990,247.5,7.2,1430,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Red light district B & B canal view,4,1498,374.5,9.5,89,300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Spacious homely house boat,3,1270,317.5,10,3,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Tulip House Luxury Apartment - Top Location - Rijksmuseum - Leidseplein AMSTERDAM Central 120 m2 ALL Private with kitchen,3,654,163.5,5.5,2,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Guest House Amsterdam,0,156,39.0,4.7,395,2400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Michaelsark,3,433,108.25,8.0,3,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsliving,0,234,58.5,4.7,82,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+BEAUTIFUL APARTMENT WiTH ASIAN STYLE BEDROOM NEAR RAI & CENTER,3,421,105.25,8.8,40,3200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel La Belle Vue,0,359,89.75,5.3,1514,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Central sweet BNB,0,259,64.75,4.2,77,450.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Canal view home in the center,3,619,154.75,9.0,2,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+LaneStay DamSquare,3,475,118.75,8.5,95,350.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Midtown Hotel Royal Room,0,433,108.25,6.8,31,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+StoreStay DamSquare,3,502,125.5,8.1,90,300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Locatie Downtown,3,753,188.25,8.1,11,300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Jaz in the City Amsterdam,4,334,83.5,8.7,10808,7200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Joy Hotel,3,301,75.25,7.4,7813,8500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Holiday Inn Express Amsterdam Arena Towers, an IHG Hotel",3,368,92.0,7.8,16470,7800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Holiday Inn Amsterdam - Arena Towers, an IHG Hotel",4,368,92.0,7.9,3395,7800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Courtyard by Marriott Amsterdam Arena Atlas,4,477,119.25,8.2,2985,7900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+YOTEL Amsterdam,4,276,69.0,8.1,8748,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Ruby Emma Hotel Amsterdam,4,420,105.0,8.6,6398,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Estheréa,4,592,148.0,9.1,4858,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Novotel Amsterdam City,4,602,150.5,8.2,6681,4400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Canal House,4,745,186.25,8.9,668,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Campanile Hotel & Restaurant Amsterdam Zuid-Oost,3,263,65.75,7.5,2875,9300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Conscious Hotel Westerpark,4,359,89.75,8.4,3133,1900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Via Suites,4,329,82.25,8.2,2324,6600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hampton by Hilton Amsterdam Centre East,4,377,94.25,8.4,3336,2800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Radisson Blu Hotel, Amsterdam City Center",4,745,186.25,8.4,7282,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Jakarta Amsterdam,4,526,131.5,9.0,7046,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Four Elements Hotel,4,346,86.5,8.2,5888,7900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Corendon Amsterdam New-West, a Tribute Portfolio Hotel",4,332,83.0,8.1,8257,5100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+THIS HO(S)TEL,0,231,57.75,8.3,5547,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NH Amsterdam Zuid,4,341,85.25,8.1,1811,5200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Mercure Hotel Amsterdam West,4,277,69.25,7.4,2474,6500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Q-Factory Hotel,3,272,68.0,7.1,3610,3100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel De Hallen,4,435,108.75,8.4,2611,1800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ibis Styles Amsterdam Central Station,3,444,111.0,7.8,4342,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+citizenM Amsterdam South,4,522,130.5,8.6,4392,3600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Holiday Inn Express Amsterdam - Sloterdijk Station, an IHG Hotel",3,375,93.75,7.9,8350,4100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+the niu Fender,4,357,89.25,8.2,5597,3900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Arena,4,441,110.25,8.1,2993,2000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Jansen Amsterdam Bajeskwartier,0,377,94.25,8.3,1712,4200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Lancaster Hotel Amsterdam,4,470,117.5,7.9,4036,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ibis Amsterdam City West,3,330,82.5,7.7,4091,3600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Casa Amsterdam,3,493,123.25,8.8,10042,3100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Qbic Amsterdam WTC,3,445,111.25,7.8,4034,3900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Mövenpick Hotel Amsterdam City Centre,4,611,152.75,8.3,5225,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Holiday Inn Express Amsterdam - North Riverside, an IHG Hotel",3,522,130.5,8.3,13218,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel & Wellness Zuiver,3,571,142.75,8.3,4198,5400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+WestCord City Centre Hotel,3,444,111.0,8.0,3771,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Park Inn by Radisson Amsterdam City West,4,466,116.5,8.0,19959,3900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+PREMIER SUITES PLUS Amsterdam,4,555,138.75,8.9,1349,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Van der Valk Hotel Amsterdam Zuidas -Rai,4,910,227.5,8.7,4800,4100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Conscious Hotel Amsterdam City - The Tire Station,3,317,79.25,8.3,2981,3100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Residence Inn by Marriott Amsterdam Houthavens,4,421,105.25,8.3,926,3400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Leonardo Hotel Amsterdam Rembrandtpark,4,377,94.25,8.1,8948,3400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Larende,3,428,107.0,8.5,1781,1900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Avani Museum Quarter Amsterdam Hotel,4,575,143.75,7.8,1431,2000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+XO Hotel Inner,3,227,56.75,7.8,5636,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Pillows Grand Boutique Hotel Maurits at the Park - Small Luxury Hotels,5,601,150.25,9.3,351,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+nhow Amsterdam Rai,4,836,209.0,9.0,10997,3800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Pontsteiger,4,410,102.5,7.6,1892,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Park Plaza Vondelpark Amsterdam,4,586,146.5,8.6,3603,2700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+DoubleTree by Hilton Amsterdam - NDSM Wharf,4,447,111.75,8.4,2801,3100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Pestana Amsterdam Riverside,5,638,159.5,8.5,4333,2400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Park Plaza Victoria Amsterdam,4,778,194.5,8.5,9219,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Moxy Amsterdam Houthavens,4,377,94.25,8.0,2394,3400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Holiday Inn Express Amsterdam - South, an IHG Hotel",3,644,161.0,8.0,2953,5500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel van de Vijsel,4,410,102.5,8.0,2741,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Van der Valk Hotel Amsterdam - Amstel,4,639,159.75,8.7,6196,4600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NH Amsterdam Leidseplein,4,533,133.25,8.6,1015,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Jan Luyken Amsterdam,4,604,151.0,9.0,809,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Inntel Hotels Amsterdam Landmark,4,522,130.5,8.2,12253,2400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Inntel Hotels Amsterdam Centre,4,671,167.75,8.2,5453,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Maison ELLE Amsterdam,4,504,126.0,8.8,1274,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The ED Amsterdam,3,424,106.0,8.4,1902,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Manor Amsterdam,4,428,107.0,8.3,2488,2700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Park Centraal Amsterdam, part of Sircle Collection",4,673,168.25,8.3,2578,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Okura Amsterdam – The Leading Hotels of the World,5,836,209.0,8.8,1095,2700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Tivoli Doelen Amsterdam Hotel,5,600,150.0,8.6,1682,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Bilderberg Garden Hotel,5,672,168.0,7.7,1972,2700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Mai Amsterdam,4,562,140.5,8.5,5642,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+citizenM Amstel Amsterdam,4,647,161.75,8.8,2926,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Room Mate Aitana,4,667,166.75,8.4,11186,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Crowne Plaza Amsterdam - South, an IHG Hotel",4,811,202.75,8.6,1243,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Clayton Hotel Amsterdam American,4,756,189.0,8.6,3749,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Cornelisz,3,484,121.0,8.4,2156,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Aadam Hotel Wilhelmina,3,337,84.25,7.1,1452,3100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Grand Hotel Downtown,4,947,236.75,7.7,3686,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NH Amsterdam Schiller,4,555,138.75,8.2,2709,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Alp Hotel,2,398,99.5,8.7,1308,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Cityview Hotel,3,419,104.75,7.4,1288,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Holiday Inn Express Amsterdam - City Hall, an IHG Hotel",3,580,145.0,8.3,4221,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Victorie,3,412,103.0,7.2,836,3000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Social Hub Amsterdam West 4 star,4,397,99.25,8.4,2746,3800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NH Amsterdam Caransa,4,511,127.75,7.9,1482,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NH Collection Amsterdam Barbizon Palace,5,767,191.75,8.4,4289,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hapimag Apartments Amsterdam,3,658,164.5,8.6,175,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Grand Hotel Amrâth Amsterdam,5,661,165.25,7.7,3043,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hyatt Regency Amsterdam,5,778,194.5,8.4,2876,1800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel The Exchange,3,601,150.25,7.3,4989,350.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Amsterdam De Roode Leeuw,4,702,175.5,7.6,3236,100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Sonder Park House,4,562,140.5,7.5,3362,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"The College Hotel Amsterdam, Autograph Collection",4,733,183.25,8.2,860,2300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"The Pavilions Amsterdam, The Toren",4,758,189.5,8.9,1172,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Apollo Hotel Amsterdam, a Tribute Portfolio Hotel",4,878,219.5,8.2,1581,2800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Morgan & Mees Amsterdam,4,598,149.5,8.8,406,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+INK Hotel Amsterdam - MGallery Collection,4,769,192.25,8.7,1430,300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Ciao Papa Hotel Amsterdam Central Station,3,466,116.5,8.1,1312,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Pulitzer Amsterdam,5,1112,278.0,8.7,1184,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"The Hoxton, Amsterdam",4,956,239.0,8.6,866,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+W Amsterdam,5,892,223.0,7.6,744,200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Dream Hotel Amsterdam,3,513,128.25,7.8,1704,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Swissôtel Amsterdam,4,762,190.5,8.2,3364,50.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Renaissance Amsterdam Hotel,5,934,233.5,6.8,1216,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"InterContinental Amstel Amsterdam, an IHG Hotel",5,1313,328.25,8.8,327,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Luxury Suites Amsterdam,5,1031,257.75,8.9,441,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Andaz Amsterdam Prinsengracht - a concept by Hyatt,5,1090,272.5,8.8,950,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Allure,3,1115,278.75,7.6,2443,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Fogo Amsterdam,3,180,45.0,7.3,1041,8400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Waldorf Astoria Amsterdam,5,2183,545.75,9.6,246,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+XO Hotels Couture,4,323,80.75,8.6,8449,4300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Blossoms City Hotel,2,214,53.5,6.0,1467,1700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Flying Pig Downtown,0,184,46.0,8.0,4180,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Doria,3,290,72.5,7.0,3331,100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Citadines Canal Amsterdam,4,377,94.25,8.7,153,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Motel One Amsterdam-Waterlooplein,3,377,94.25,8.7,6219,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Delphi - Amsterdam Townhouse,4,500,125.0,8.5,1663,2700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Skotel Amsterdam, Hotelschool The Hague",0,334,83.5,8.9,1685,3400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Dikker & Thijs Hotel,4,552,138.0,7.9,2158,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel2Stay,3,325,81.25,8.6,3762,4000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+ibis Amsterdam Centre Stopera,3,368,92.0,7.8,4115,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel 717,5,800,200.0,9.1,884,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+De Bedstee Boutique Capsules,0,212,53.0,8.0,2079,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Cocomama,0,477,119.25,8.0,1662,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Banks Mansion - All Inclusive Boutique Hotel,4,706,176.5,8.9,1217,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+CityHub Amsterdam,0,292,73.0,8.9,1417,1900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Atlas Vondelpark,3,397,99.25,7.8,1961,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Omega,3,439,109.75,7.9,532,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+hotel calisto,0,342,85.5,8.2,319,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Singel Hotel Amsterdam,3,437,109.25,8.4,2194,500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Crane Hotel Faralda,5,2390,597.5,8.3,20,2900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Bastion Hotel Amsterdam Zuidwest,3,265,66.25,6.7,1432,3800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Conscious Hotel Vondelpark,3,444,111.0,8.3,776,3000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"Hotel Asterisk, a family run hotel",3,532,133.0,8.7,2297,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Social Hub Amsterdam West,3,367,91.75,8.0,2952,3900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Boutique Hotel Oosteinde,3,392,98.0,7.6,1390,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+WesterVilla,0,417,104.25,8.9,1183,2500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+MAX Hotel Amsterdam,2,243,60.75,6.1,899,1800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Poppies,0,368,92.0,8.5,46,2800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Park Plantage,3,346,86.5,7.3,2056,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Townhouse Hotel,2,223,55.75,6.1,308,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Rooms25,0,471,117.75,8.0,589,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Zoku Amsterdam,4,643,160.75,8.9,2746,1400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Bastion Hotel Amsterdam Noord,3,310,77.5,6.6,808,3500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+De Jonker Urban Studios & Suites,4,461,115.25,8.1,1315,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Frank since 1666,3,401,100.25,8.6,857,900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Sara's Boutique Hotel,3,281,70.25,5.8,711,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Atlanta,2,312,78.0,7.2,1395,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+COMMUNE suites,3,557,139.25,8.8,383,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Frisco Inn,2,368,92.0,6.1,1564,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel The Neighbour's Magnolia,3,417,104.25,7.7,1390,2500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Voyagers Amsterdam,0,468,117.0,6.6,35,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Isis,3,427,106.75,7.3,1156,1900.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+limehome Amsterdam Hemonystraat - Digital access,0,454,113.5,7.0,151,1800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Albus Hotel Amsterdam City Centre,4,733,183.25,8.3,2694,800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel The Bird,3,557,139.25,7.6,1248,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amistad hotel,2,557,139.25,8.7,932,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Nine(T)Teen,3,667,166.75,8.9,115,1800.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Boutique Hotel The Craftsmen,4,1032,258.0,9.3,599,400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Royal Plaza Hotel Amsterdam,3,293,73.25,6.3,1513,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Weber Hotel 397,2,510,127.5,8.5,888,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Quentin Golden Bear Hotel,2,435,108.75,5.8,747,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Sotel Amsterdam Central Station,3,667,166.75,7.1,258,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Dylan Amsterdam - The Leading Hotels of the World,5,1588,397.0,9.2,393,700.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Homestay Properties,0,439,109.75,9.3,24,6600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+limehome Amsterdam Leidsekruisstraat,0,706,176.5,8.2,39,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Modern Hideout Ace Location,0,723,180.75,8.2,202,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Modern Canal House Loft - City Center,3,733,183.25,8.0,66,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+NEW! 2024 - The Canal Bridge Suites,3,947,236.75,7.9,274,600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel Prinsenhof Amsterdam,1,447,111.75,8.2,1546,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hotel La Bohème,2,433,108.25,8.6,1188,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Boutique Hotel View,3,381,95.25,8.6,842,1300.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+OZO Hotels Armada Amsterdam,3,400,100.0,6.8,1765,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+OZO Hotels Cordial Amsterdam,3,418,104.5,6.6,3291,250.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Di-Ann City Centre Hotel,0,368,92.0,5.4,2283,450.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+"De Durgerdam, Amsterdam",5,763,190.75,8.0,4,6500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Hostel Uptown,0,147,36.75,5.4,660,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Hostel Annemarie,0,92,23.0,5.8,1853,2100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Ecomama,0,140,35.0,8.1,3106,1000.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Hostel Leidseplein,0,103,25.75,5.4,2300,1200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Princess Hostel Leidse Square Amsterdam,0,94,23.5,4.8,1918,1600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Hostel Sarphati,0,92,23.0,5.0,1218,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Amsterdam Hostel Orfeo,0,103,25.75,5.2,1489,1100.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+The Bee Hostel,0,205,51.25,8.6,2668,1500.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Durty Nelly's Inn,0,235,58.75,8.3,5478,250.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hostelle - women only hostel Amsterdam,0,263,65.75,8.4,5176,7600.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Dutchies Hostel,0,194,48.5,7.8,2300,3400.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0
+Hostel Cosmos Amsterdam,0,232,58.0,5.7,1608,2200.0,True,False,Amsterdam,2024-11-21 21:43:17.243103,4,0

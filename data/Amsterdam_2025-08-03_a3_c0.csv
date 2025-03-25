@@ -1,0 +1,51 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Hans Brinker Hostel Amsterdam,0,123,41.0,7.8,10190,1100.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Catalonia Vondel Amsterdam,4,234,78.0,8.4,127,1500.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+OZO Hotels Arena Amsterdam,4,635,211.67,7.4,8314,8400.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Fine Harmony,3,318,106.0,7.9,1578,800.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Park Inn by Radisson Amsterdam City West,4,396,132.0,8.0,19938,3900.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+MAX Hotel Amsterdam,2,144,48.0,6.1,899,1800.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Casa Amsterdam,3,395,131.67,8.8,10033,3100.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Melrose Hotel,3,305,101.67,7.7,2498,1000.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+INNSiDE by Meliá Amsterdam,4,552,184.0,8.6,6030,4000.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Boutique Apartments Amsterdam,4,398,132.67,8.9,2244,4200.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Generator Amsterdam,3,1115,371.67,7.8,5152,2200.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Eric Vökel Boutique Apartments - Amsterdam Suites,4,769,256.33,8.7,1293,1100.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+The Delphi - Amsterdam Townhouse,4,909,303.0,8.5,1661,2700.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Ciao Papa Hotel Amsterdam Central Station,3,890,296.67,8.1,1312,700.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Weber Hotel 117,2,654,218.0,7.9,487,1200.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Mansion,3,835,278.33,7.8,2065,800.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Quentin Zoo hotel,4,808,269.33,7.8,1633,1400.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Krisotel,3,2229,743.0,8.4,3003,1200.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Amstelzicht,3,368,122.67,8.1,1490,700.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Rooftop Retreat,3,669,223.0,,11,500.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Gypsy Waggon - A villa on wheels,3,196,65.33,7.0,59,7200.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Fogo Amsterdam,3,613,204.33,7.2,1027,8400.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+GH Amsterdam,3,531,177.0,8.5,108,1600.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Keizersgracht Centre,3,736,245.33,,,900.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Abba,1,557,185.67,7.3,3255,1700.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Old South - Luxury Apartment,3,406,135.33,,,2500.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Belfort Hotel,3,1003,334.33,6.3,3715,3300.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Central B&B Apartment in Amsterdam,3,387,129.0,6.9,66,400.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Best Neighbourhood Apartment,3,772,257.33,8.9,14,450.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Quentin England Hotel,2,836,278.67,6.3,1549,1700.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Acostar Hotel,2,502,167.33,7.0,1575,1000.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Rembrandt Square Hotel,1,562,187.33,6.8,1752,800.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Blossoms City Hotel,2,669,223.0,6.0,1466,1700.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Weber Hotel,2,654,218.0,8.1,1348,1200.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Quentin Arrive Hotel,1,580,193.33,5.7,1062,800.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Aston City Hotel,2,869,289.67,4.9,926,1700.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Vossius Vondelpark,3,990,330.0,7.2,1430,1500.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel King's Court,3,11146,3715.33,7.8,1427,4000.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Quentin Amsterdam Hotel,3,780,260.0,5.9,1490,1300.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Michaelsark,3,298,99.33,8.0,3,4300.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Plantage Garden Apartments,3,1226,408.67,7.9,260,1400.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Plantage Hortus Apartments,3,2006,668.67,7.3,433,1400.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Nadia Hotel,2,446,148.67,7.4,6440,500.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Room Mate Aitana,4,3229,1076.33,8.4,11182,1300.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel Arena,4,22294,7431.33,8.1,2995,2000.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Dutch Design Hotel Vondelpark,3,814,271.33,8.3,403,3200.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+THIS HO(S)TEL,0,669,223.0,8.3,5541,500.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel 717,5,1561,520.33,9.1,883,1000.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+COMMUNE suites,3,524,174.67,8.8,383,1300.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0
+Hotel2Stay,3,1271,423.67,8.6,3759,4000.0,True,False,Amsterdam,2025-08-03 17:34:09.932300,3,0

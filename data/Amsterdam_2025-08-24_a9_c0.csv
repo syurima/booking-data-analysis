@@ -1,0 +1,26 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Aston City Hotel,2,1715,190.56,4.9,926,1700.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel King's Court,3,22291,2476.78,7.8,1427,4000.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Plantage Hortus Apartments,3,4553,505.89,7.3,433,1400.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel Casa Amsterdam,3,1125,125.0,8.8,10035,3100.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Melrose Hotel,3,862,95.78,7.7,2500,1000.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+OZO Hotels Arena Amsterdam,4,1790,198.89,7.4,8318,8400.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel Fine Harmony,3,842,93.56,7.9,1578,800.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Catalonia Vondel Amsterdam,4,1338,148.67,8.4,131,1500.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Boutique Apartments Amsterdam,4,1194,132.67,8.9,2247,4200.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+The Delphi - Amsterdam Townhouse,4,2589,287.67,8.5,1662,2700.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Ciao Papa Hotel Amsterdam Central Station,3,2535,281.67,8.1,1312,700.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Weber Hotel 117,2,1534,170.44,7.9,487,1200.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel Mansion,3,2378,264.22,7.8,2065,800.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Quentin Zoo hotel,4,2303,255.89,7.8,1635,1400.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel Amstelzicht,3,1048,116.44,8.1,1490,700.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel Fogo Amsterdam,3,1747,194.11,7.3,1033,8400.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel Abba,1,1588,176.44,7.3,3256,1700.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Belfort Hotel,3,2859,317.67,6.3,3717,3300.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Rembrandt Square Hotel,1,1685,187.22,6.8,1754,800.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Quentin Arrive Hotel,1,1631,181.22,5.7,1065,800.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Quentin England Hotel,2,2356,261.78,6.3,1549,1700.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Blossoms City Hotel,2,1906,211.78,6.0,1466,1700.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Weber Hotel,2,1717,190.78,8.1,1349,1200.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Hotel Vossius Vondelpark,3,2821,313.44,7.2,1430,1500.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0
+Quentin Amsterdam Hotel,3,2224,247.11,5.9,1491,1300.0,True,False,Amsterdam,2025-08-24 21:32:10.962806,9,0

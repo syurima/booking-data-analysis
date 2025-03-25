@@ -1,0 +1,52 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Via Amsterdam,3,217,54.25,8.1,17055,6600.0,True,False,Amsterdam,2025-03-07,4,0
+Postillion Hotel Amsterdam,4,444,111.0,8.6,10075,4800.0,True,False,Amsterdam,2025-03-07,4,0
+Hampton By Hilton Amsterdam Arena Boulevard,3,302,75.5,8.1,12391,7600.0,True,False,Amsterdam,2025-03-07,4,0
+Best Western Amsterdam,3,178,44.5,7.7,9415,4300.0,True,False,Amsterdam,2025-03-07,4,0
+OZO Hotels Arena Amsterdam,4,256,64.0,7.4,8325,8400.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Corner House,1,307,76.75,7.7,1603,200.0,True,False,Amsterdam,2025-03-07,4,0
+MEININGER Hotel Amsterdam City West,0,184,46.0,8.1,6462,4300.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Library Amsterdam,3,303,75.75,8.0,3312,900.0,True,False,Amsterdam,2025-03-07,4,0
+ClinkNOORD Hostel,0,374,93.5,8.0,15296,1500.0,True,False,Amsterdam,2025-03-07,4,0
+The Alfred Hotel,3,256,64.0,7.3,5800,2600.0,True,False,Amsterdam,2025-03-07,4,0
+Rembrandt Square Hotel,1,218,54.5,6.8,1756,800.0,True,False,Amsterdam,2025-03-07,4,0
+Fletcher Hotel Amsterdam,4,377,94.25,7.3,3808,9400.0,True,False,Amsterdam,2025-03-07,4,0
+easyHotel Amsterdam Arena Boulevard,0,203,50.75,7.3,7536,7500.0,True,False,Amsterdam,2025-03-07,4,0
+Mercure Amsterdam City Hotel,4,259,64.75,8.3,4043,4400.0,True,False,Amsterdam,2025-03-07,4,0
+SUPPER Hotel,4,334,83.5,7.3,678,700.0,True,False,Amsterdam,2025-03-07,4,0
+Quentin Arrive Hotel,1,200,50.0,5.7,1067,800.0,True,False,Amsterdam,2025-03-07,4,0
+Amsterdam Wiechmann Hotel,2,346,86.5,8.5,4014,800.0,True,False,Amsterdam,2025-03-07,4,0
+Pension Homeland,0,312,78.0,8.7,3525,1600.0,True,False,Amsterdam,2025-03-07,4,0
+Leonardo Royal Hotel Amsterdam,4,301,75.25,8.2,7792,4800.0,True,False,Amsterdam,2025-03-07,4,0
+The Muse Amsterdam - Boutique Hotel,3,323,80.75,8.2,1584,2300.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Iron Horse Amsterdam,3,329,82.25,7.4,1913,1500.0,True,False,Amsterdam,2025-03-07,4,0
+Mister Highland Hotel,4,446,111.5,8.3,500,250.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Fine Harmony,3,329,82.25,7.9,1577,800.0,True,False,Amsterdam,2025-03-07,4,0
+MEININGER Hotel Amsterdam Amstel,0,252,63.0,8.1,4500,3500.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Sint Nicolaas,3,464,116.0,8.2,2169,500.0,True,False,Amsterdam,2025-03-07,4,0
+Generator Amsterdam,3,325,81.25,7.8,5161,2200.0,True,False,Amsterdam,2025-03-07,4,0
+Catalonia Vondel Amsterdam,4,409,102.25,8.4,133,1500.0,True,False,Amsterdam,2025-03-07,4,0
+WestCord Fashion Hotel Amsterdam,4,383,95.75,8.2,3742,3700.0,True,False,Amsterdam,2025-03-07,4,0
+"Max Brown Hotel Museum Square, part of Sircle Collection",3,344,86.0,7.8,1170,1600.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel JL No76,4,398,99.5,8.2,1646,1700.0,True,False,Amsterdam,2025-03-07,4,0
+Olympic Hotel,4,268,67.0,8.5,9897,4400.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Nes,3,434,108.5,8.1,3423,600.0,True,False,Amsterdam,2025-03-07,4,0
+Bob W Amsterdam Noord,4,388,97.0,8.8,929,2800.0,True,False,Amsterdam,2025-03-07,4,0
+Amsterdam ID Aparthotel,3,458,114.5,8.7,1815,4300.0,True,False,Amsterdam,2025-03-07,4,0
+"Max Brown Hotel Canal District, part of Sircle Collection",3,416,104.0,7.7,1120,700.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Atlantis Amsterdam,3,390,97.5,7.0,2819,2100.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Espresso,3,421,105.25,7.4,1965,1600.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Old Quarter,2,385,96.25,7.4,3510,500.0,True,False,Amsterdam,2025-03-07,4,0
+NH Collection Amsterdam Flower Market,4,500,125.0,8.5,6999,700.0,True,False,Amsterdam,2025-03-07,4,0
+Amsterdam Marriott Hotel,5,534,133.5,8.0,1762,1500.0,True,False,Amsterdam,2025-03-07,4,0
+Eden Hotel Amsterdam,4,540,135.0,8.2,9627,800.0,True,False,Amsterdam,2025-03-07,4,0
+WestCord Art Hotel Amsterdam 4 stars,4,356,89.0,8.0,846,2800.0,True,False,Amsterdam,2025-03-07,4,0
+Amadi Panorama Hotel,4,434,108.5,7.6,5004,6600.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Roemer Amsterdam,4,398,99.5,7.9,2287,1600.0,True,False,Amsterdam,2025-03-07,4,0
+"Kimpton De Witt Amsterdam, an IHG Hotel",5,634,158.5,8.7,3004,500.0,True,False,Amsterdam,2025-03-07,4,0
+Melrose Hotel,3,434,108.5,7.7,2502,1000.0,True,False,Amsterdam,2025-03-07,4,0
+Hotel Heye 130,0,264,66.0,8.1,1300,2300.0,True,False,Amsterdam,2025-03-07,4,0
+The Unbound Amsterdam,4,386,96.5,8.5,1976,7500.0,True,False,Amsterdam,2025-03-07,4,0
+Bastion Hotel Amsterdam Amstel,3,214,53.5,7.0,2678,5000.0,True,False,Amsterdam,2025-03-07,4,0
+Johan's B&B met dakterras - since 2014,0,321,80.25,8.7,186,5800.0,True,False,Amsterdam,2025-03-07,4,0
+The July - Twenty Eight,4,586,146.5,9.1,725,4100.0,True,False,Amsterdam,2025-03-07,4,0

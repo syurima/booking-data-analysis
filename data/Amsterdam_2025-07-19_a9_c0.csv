@@ -1,0 +1,26 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Hotel King's Court,3,22291,2476.78,7.8,1426,4000.0,True,False,Amsterdam,2025-07-19,9,0
+Aston City Hotel,2,1806,200.67,4.9,927,1700.0,True,False,Amsterdam,2025-07-19,9,0
+Plantage Hortus Apartments,3,4793,532.56,7.3,435,1400.0,True,False,Amsterdam,2025-07-19,9,0
+Catalonia Vondel Amsterdam,4,970,107.78,8.4,133,1500.0,True,False,Amsterdam,2025-07-19,9,0
+Hotel Fine Harmony,3,1154,128.22,7.9,1577,800.0,True,False,Amsterdam,2025-07-19,9,0
+Boutique Apartments Amsterdam,4,1194,132.67,8.9,2253,4200.0,True,False,Amsterdam,2025-07-19,9,0
+OZO Hotels Arena Amsterdam,4,1884,209.33,7.4,8325,8400.0,True,False,Amsterdam,2025-07-19,9,0
+Weber Hotel 117,2,1615,179.44,7.9,489,1200.0,True,False,Amsterdam,2025-07-19,9,0
+Ciao Papa Hotel Amsterdam Central Station,3,2669,296.56,8.1,1312,700.0,True,False,Amsterdam,2025-07-19,9,0
+The Delphi - Amsterdam Townhouse,4,2774,308.22,8.5,1663,2700.0,True,False,Amsterdam,2025-07-19,9,0
+Hotel Mansion,3,2504,278.22,7.8,2063,800.0,True,False,Amsterdam,2025-07-19,9,0
+Quentin Zoo hotel,4,2424,269.33,7.8,1635,1400.0,True,False,Amsterdam,2025-07-19,9,0
+Hotel Casa Amsterdam,3,1184,131.56,8.8,10042,3100.0,True,False,Amsterdam,2025-07-19,9,0
+Hotel Abba,1,1672,185.78,7.3,3258,1700.0,True,False,Amsterdam,2025-07-19,9,0
+Hotel Fogo Amsterdam,3,1839,204.33,7.3,1041,8400.0,True,False,Amsterdam,2025-07-19,9,0
+Quentin Arrive Hotel,1,1717,190.78,5.7,1067,800.0,True,False,Amsterdam,2025-07-19,9,0
+Weber Hotel,2,1807,200.78,8.1,1350,1200.0,True,False,Amsterdam,2025-07-19,9,0
+Belfort Hotel,3,3010,334.44,6.3,3721,3300.0,True,False,Amsterdam,2025-07-19,9,0
+Blossoms City Hotel,2,2006,222.89,6.0,1467,1700.0,True,False,Amsterdam,2025-07-19,9,0
+Quentin England Hotel,2,2480,275.56,6.3,1548,1700.0,True,False,Amsterdam,2025-07-19,9,0
+Quentin Amsterdam Hotel,3,2341,260.11,5.9,1492,1300.0,True,False,Amsterdam,2025-07-19,9,0
+Plantage Garden Apartments,3,3567,396.33,7.9,261,1400.0,True,False,Amsterdam,2025-07-19,9,0
+Hans Brinker Hostel Amsterdam,0,184,20.44,7.8,10213,1100.0,True,False,Amsterdam,2025-07-19,9,0
+Park Inn by Radisson Amsterdam City West,4,1118,124.22,8.0,19959,3900.0,True,False,Amsterdam,2025-07-19,9,0
+MAX Hotel Amsterdam,2,698,77.56,6.1,899,1800.0,True,False,Amsterdam,2025-07-19,9,0

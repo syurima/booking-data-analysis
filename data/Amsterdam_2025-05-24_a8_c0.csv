@@ -1,0 +1,51 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Via Amsterdam,3,666,83.25,8.1,17055,6600.0,True,False,Amsterdam,2025-05-24,8,0
+Delta Hotel City Center,3,780,97.5,6.6,3570,400.0,True,False,Amsterdam,2025-05-24,8,0
+Amsterdam ID Aparthotel,3,1194,149.25,8.7,1815,4300.0,True,False,Amsterdam,2025-05-24,8,0
+Amsterdam Teleport Hotel,3,980,122.5,7.6,8615,4300.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel & bar Royal taste Amsterdam,0,559,69.88,7.9,1161,450.0,True,False,Amsterdam,2025-05-24,8,0
+Pension Homeland,0,624,78.0,8.7,3525,1600.0,True,False,Amsterdam,2025-05-24,8,0
+Bob W Oosterpark,4,803,100.38,9.0,366,3100.0,True,False,Amsterdam,2025-05-24,8,0
+Mercure Amsterdam City Hotel,4,733,91.62,8.3,4043,4400.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel Heye 130,0,700,87.5,8.1,1300,2300.0,True,False,Amsterdam,2025-05-24,8,0
+Bob W Amsterdam Noord,4,1026,128.25,8.8,929,2800.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel Fine Harmony,3,970,121.25,7.9,1577,800.0,True,False,Amsterdam,2025-05-24,8,0
+Mercure Amsterdam Sloterdijk Station,4,907,113.38,8.4,5013,4300.0,True,False,Amsterdam,2025-05-24,8,0
+OZO Hotels Arena Amsterdam,4,1382,172.75,7.4,8325,8400.0,True,False,Amsterdam,2025-05-24,8,0
+Weber Hotel 117,2,1650,206.25,7.9,489,1200.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel CC,3,2227,278.38,7.9,5314,500.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel Mansion,3,2225,278.12,7.8,2063,800.0,True,False,Amsterdam,2025-05-24,8,0
+SUPPER Hotel,4,3068,383.5,7.3,678,700.0,True,False,Amsterdam,2025-05-24,8,0
+"Sir Albert Hotel, part of Sircle Collection",4,22291,2786.38,8.1,531,2100.0,True,False,Amsterdam,2025-05-24,8,0
+Met Hotel Amsterdam,3,2450,306.25,9.0,2613,4100.0,True,False,Amsterdam,2025-05-24,8,0
+Quentin Zoo hotel,4,2174,271.75,7.8,1635,1400.0,True,False,Amsterdam,2025-05-24,8,0
+Citadines Canal Amsterdam,4,850,106.25,8.7,153,1300.0,True,False,Amsterdam,2025-05-24,8,0
+Chassé Hotel Residency,4,894,111.75,8.9,1300,3200.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel Mosaic City Centre,3,1237,154.62,7.7,3914,1600.0,True,False,Amsterdam,2025-05-24,8,0
+Linden Hotel,3,1175,146.88,9.1,2101,1100.0,True,False,Amsterdam,2025-05-24,8,0
+The July - Boat & Co,4,1247,155.88,9.2,2121,2500.0,True,False,Amsterdam,2025-05-24,8,0
+Golden Mansion Aparthotel,3,3589,448.62,7.7,1321,1600.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel Washington,2,1166,145.75,7.2,2598,2100.0,True,False,Amsterdam,2025-05-24,8,0
+Authentic Farmhouse - De Vergulden Eenhoorn,4,1169,146.12,8.2,94,3000.0,True,False,Amsterdam,2025-05-24,8,0
+New West Inn Amsterdam,3,1115,139.38,7.2,8654,6800.0,True,False,Amsterdam,2025-05-24,8,0
+Quentin Arrive Hotel,1,1182,147.75,5.7,1067,800.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel King's Court,3,22291,2786.38,7.8,1426,4000.0,True,False,Amsterdam,2025-05-24,8,0
+Olympic Hotel,4,1583,197.88,8.5,9897,4400.0,True,False,Amsterdam,2025-05-24,8,0
+The Concert Hotel,3,1304,163.0,7.7,2503,2300.0,True,False,Amsterdam,2025-05-24,8,0
+ITC Hotel,2,1382,172.75,6.4,1644,1200.0,True,False,Amsterdam,2025-05-24,8,0
+Weber Hotel,2,1485,185.62,8.1,1350,1200.0,True,False,Amsterdam,2025-05-24,8,0
+Amigo Hotel,0,4459,557.38,5.9,2980,3000.0,True,False,Amsterdam,2025-05-24,8,0
+Urban Lodge Hotel,4,2029,253.62,7.9,3990,4200.0,True,False,Amsterdam,2025-05-24,8,0
+Botel,3,3127,390.88,7.4,4490,3100.0,True,False,Amsterdam,2025-05-24,8,0
+Belfort Hotel,3,2227,278.38,6.3,3721,3300.0,True,False,Amsterdam,2025-05-24,8,0
+Citiez Hotel Amsterdam,3,4370,546.25,8.1,3126,6200.0,True,False,Amsterdam,2025-05-24,8,0
+Anantara Grand Hotel Krasnapolsky Amsterdam,5,2472,309.0,8.8,7342,100.0,True,False,Amsterdam,2025-05-24,8,0
+Rembrandtplein Hotel,1,1789,223.62,6.8,1812,600.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel Nicolaas Witsen,3,4320,540.0,8.7,1104,1600.0,True,False,Amsterdam,2025-05-24,8,0
+Catalonia Vondel Amsterdam,4,914,114.25,8.4,133,1500.0,True,False,Amsterdam,2025-05-24,8,0
+YOTEL Amsterdam,4,3341,417.62,8.1,8748,2200.0,True,False,Amsterdam,2025-05-24,8,0
+Hotel Casa Amsterdam,3,1119,139.88,8.8,10042,3100.0,True,False,Amsterdam,2025-05-24,8,0
+Leonardo Royal Hotel Amsterdam,4,908,113.5,8.2,7792,4800.0,True,False,Amsterdam,2025-05-24,8,0
+"Radisson Blu Hotel, Amsterdam City Center",4,2341,292.62,8.4,7282,400.0,True,False,Amsterdam,2025-05-24,8,0
+Avani Museum Quarter Amsterdam Hotel,4,1143,142.88,7.8,1431,2000.0,True,False,Amsterdam,2025-05-24,8,0
+Fletcher Hotel Amsterdam,4,1244,155.5,7.3,3808,9400.0,True,False,Amsterdam,2025-05-24,8,0

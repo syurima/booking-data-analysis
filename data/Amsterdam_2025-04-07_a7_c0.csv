@@ -1,0 +1,52 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Travel Hotel Amsterdam,2,268,38.29,6.5,2013,350.0,True,False,Amsterdam,2025-04-07,7,0
+Postillion Hotel Amsterdam,4,1021,145.86,8.6,10075,4800.0,True,False,Amsterdam,2025-04-07,7,0
+Via Amsterdam,3,407,58.14,8.1,17055,6600.0,True,False,Amsterdam,2025-04-07,7,0
+Hans Brinker Hostel Amsterdam,0,341,48.71,7.8,10213,1100.0,True,False,Amsterdam,2025-04-07,7,0
+Amsterdam ID Aparthotel,3,728,104.0,8.7,1815,4300.0,True,False,Amsterdam,2025-04-07,7,0
+Amsterdam Marriott Hotel,5,1760,251.43,8.0,1762,1500.0,True,False,Amsterdam,2025-04-07,7,0
+Delta Hotel City Center,3,535,76.43,6.6,3570,400.0,True,False,Amsterdam,2025-04-07,7,0
+Amsterdam Teleport Hotel,3,664,94.86,7.6,8615,4300.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Damrak Inn,2,1115,159.29,7.1,1785,300.0,True,False,Amsterdam,2025-04-07,7,0
+MEININGER Hotel Amsterdam City West,0,264,37.71,8.1,6462,4300.0,True,False,Amsterdam,2025-04-07,7,0
+Budget Hotel Tourist Inn,2,378,54.0,7.6,4356,350.0,True,False,Amsterdam,2025-04-07,7,0
+Hampton By Hilton Amsterdam Arena Boulevard,3,692,98.86,8.1,12391,7600.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel City Garden Amsterdam,3,499,71.29,7.1,3715,1900.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Atlantis Amsterdam,3,518,74.0,7.0,2819,2100.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Library Amsterdam,3,632,90.29,8.0,3312,900.0,True,False,Amsterdam,2025-04-07,7,0
+OZO Hotels Arena Amsterdam,4,725,103.57,7.4,8325,8400.0,True,False,Amsterdam,2025-04-07,7,0
+NH City Centre Amsterdam,4,814,116.29,8.2,4919,450.0,True,False,Amsterdam,2025-04-07,7,0
+Pension Homeland,0,580,82.86,8.7,3525,1600.0,True,False,Amsterdam,2025-04-07,7,0
+Mister Highland Hotel,4,809,115.57,8.3,500,250.0,True,False,Amsterdam,2025-04-07,7,0
+Quentin Arrive Hotel,1,366,52.29,5.7,1067,800.0,True,False,Amsterdam,2025-04-07,7,0
+Volkshotel,0,798,114.0,8.6,4886,2500.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Sint Nicolaas,3,827,118.14,8.2,2169,500.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Fine Harmony,3,691,98.71,7.9,1577,800.0,True,False,Amsterdam,2025-04-07,7,0
+Bob W Amsterdam Noord,4,842,120.29,8.8,929,2800.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Nes,3,796,113.71,8.1,3423,600.0,True,False,Amsterdam,2025-04-07,7,0
+Leonardo Royal Hotel Amsterdam,4,780,111.43,8.2,7792,4800.0,True,False,Amsterdam,2025-04-07,7,0
+easyHotel Amsterdam Arena Boulevard,0,486,69.43,7.3,7536,7500.0,True,False,Amsterdam,2025-04-07,7,0
+Catalonia Vondel Amsterdam,4,859,122.71,8.4,133,1500.0,True,False,Amsterdam,2025-04-07,7,0
+Mercure Amsterdam City Hotel,4,807,115.29,8.3,4043,4400.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Iron Horse Amsterdam,3,858,122.57,7.4,1913,1500.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Espresso,3,1013,144.71,7.4,1965,1600.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel van Gelder,2,806,115.14,7.5,2435,400.0,True,False,Amsterdam,2025-04-07,7,0
+The Highland House,4,1077,153.86,8.4,986,250.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Dwars,3,986,140.86,8.7,918,1300.0,True,False,Amsterdam,2025-04-07,7,0
+Leonardo Hotel Amsterdam City Center,4,980,140.0,7.4,2388,1600.0,True,False,Amsterdam,2025-04-07,7,0
+"Kimpton De Witt Amsterdam, an IHG Hotel",5,1257,179.57,8.7,3004,500.0,True,False,Amsterdam,2025-04-07,7,0
+Multatuli Hotel,3,1115,159.29,7.6,3352,700.0,True,False,Amsterdam,2025-04-07,7,0
+NH Collection Amsterdam Flower Market,4,1190,170.0,8.5,6999,700.0,True,False,Amsterdam,2025-04-07,7,0
+Eric Vökel Boutique Apartments - Riverfront Suites,3,1694,242.0,9.0,61,2300.0,True,False,Amsterdam,2025-04-07,7,0
+DoubleTree by Hilton Amsterdam Centraal Station,4,1684,240.57,7.7,3527,1000.0,True,False,Amsterdam,2025-04-07,7,0
+"Sir Adam Hotel, part of Sircle Collection",4,1714,244.86,8.7,1476,1400.0,True,False,Amsterdam,2025-04-07,7,0
+Element Amsterdam,4,1402,200.29,8.7,1436,4700.0,True,False,Amsterdam,2025-04-07,7,0
+SUPPER Hotel,4,3040,434.29,7.3,678,700.0,True,False,Amsterdam,2025-04-07,7,0
+"Sir Albert Hotel, part of Sircle Collection",4,1349,192.71,8.1,531,2100.0,True,False,Amsterdam,2025-04-07,7,0
+Weber Hotel 117,2,1264,180.57,7.9,489,1200.0,True,False,Amsterdam,2025-04-07,7,0
+Golden Mansion Aparthotel,3,3508,501.14,7.7,1321,1600.0,True,False,Amsterdam,2025-04-07,7,0
+"Max Brown Hotel Museum Square, part of Sircle Collection",3,2227,318.14,7.8,1170,1600.0,True,False,Amsterdam,2025-04-07,7,0
+Quentin Zoo hotel,4,1512,216.0,7.8,1635,1400.0,True,False,Amsterdam,2025-04-07,7,0
+Hotel Mansion,3,1947,278.14,7.8,2063,800.0,True,False,Amsterdam,2025-04-07,7,0
+Met Hotel Amsterdam,3,2450,350.0,9.0,2613,4100.0,True,False,Amsterdam,2025-04-07,7,0
+Chasse Hotel,4,721,103.0,8.7,3760,2200.0,True,False,Amsterdam,2025-04-07,7,0

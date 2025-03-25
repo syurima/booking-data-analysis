@@ -1,0 +1,52 @@
+name,stars,price,price_per_person,rating,opinions,distance_from_centre,free_cancellation,breakfast,city,date,adults,children
+Via Amsterdam,3,292,58.4,8.1,17055,6600.0,True,False,Amsterdam,2024-10-20,5,0
+Postillion Hotel Amsterdam,4,565,113.0,8.6,10075,4800.0,True,False,Amsterdam,2024-10-20,5,0
+MEININGER Hotel Amsterdam Amstel,0,256,51.2,8.1,4500,3500.0,True,False,Amsterdam,2024-10-20,5,0
+Apple Inn Hotel,3,301,60.2,7.7,1716,2800.0,True,False,Amsterdam,2024-10-20,5,0
+Generator Amsterdam,3,305,61.0,7.8,5161,2200.0,True,False,Amsterdam,2024-10-20,5,0
+Hampton By Hilton Amsterdam Arena Boulevard,3,452,90.4,8.1,12391,7600.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel Library Amsterdam,3,445,89.0,8.0,3312,900.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel City Garden Amsterdam,3,370,74.0,7.1,3715,1900.0,True,False,Amsterdam,2024-10-20,5,0
+Heart of Amsterdam Hotel,0,563,112.6,7.4,2821,300.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel Old Quarter,2,518,103.6,7.4,3510,500.0,True,False,Amsterdam,2024-10-20,5,0
+Amsterdam House Hotel,3,635,127.0,7.7,1950,600.0,True,False,Amsterdam,2024-10-20,5,0
+The Alfred Hotel,3,613,122.6,7.3,5800,2600.0,True,False,Amsterdam,2024-10-20,5,0
+The Unbound Amsterdam,4,703,140.6,8.5,1976,7500.0,True,False,Amsterdam,2024-10-20,5,0
+DoubleTree by Hilton Amsterdam Centraal Station,4,878,175.6,7.7,3527,1000.0,True,False,Amsterdam,2024-10-20,5,0
+Hans Brinker Hostel Amsterdam,0,288,57.6,7.8,10213,1100.0,True,False,Amsterdam,2024-10-20,5,0
+Amsterdam ID Aparthotel,3,1938,387.6,8.7,1815,4300.0,True,False,Amsterdam,2024-10-20,5,0
+Weber Hotel 117,2,688,137.6,7.9,489,1200.0,True,False,Amsterdam,2024-10-20,5,0
+Amsterdam Marriott Hotel,5,1626,325.2,8.0,1762,1500.0,True,False,Amsterdam,2024-10-20,5,0
+Sofitel Legend The Grand Amsterdam,5,3054,610.8,9.0,946,250.0,True,False,Amsterdam,2024-10-20,5,0
+Amsterdam Downtown Hotel,2,892,178.4,7.0,2257,1000.0,True,False,Amsterdam,2024-10-20,5,0
+Conservatorium Hotel,5,4737,947.4,8.9,313,1900.0,True,False,Amsterdam,2024-10-20,5,0
+De L’Europe Amsterdam – The Leading Hotels of the World,5,11809,2361.8,8.8,468,600.0,True,False,Amsterdam,2024-10-20,5,0
+Amsterdam Teleport Hotel,3,275,55.0,7.6,8615,4300.0,True,False,Amsterdam,2024-10-20,5,0
+Chasse Hotel,4,502,100.4,8.7,3760,2200.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel & bar Royal taste Amsterdam,0,337,67.4,7.9,1161,450.0,True,False,Amsterdam,2024-10-20,5,0
+Guest House Amsterdam,0,145,29.0,4.7,395,2400.0,True,False,Amsterdam,2024-10-20,5,0
+Chassé Hotel Residency,4,478,95.6,8.9,1300,3200.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel Damrak Inn,2,334,66.8,7.1,1785,300.0,True,False,Amsterdam,2024-10-20,5,0
+Travel Hotel Amsterdam,2,307,61.4,6.5,2013,350.0,True,False,Amsterdam,2024-10-20,5,0
+Budget Trianon Hotel,2,263,52.6,6.8,2616,2100.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel Hermitage Amsterdam,2,391,78.2,6.8,2208,1200.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel des Arts,3,570,114.0,8.4,722,500.0,True,False,Amsterdam,2024-10-20,5,0
+Dam Hotel,2,381,76.2,6.2,2188,450.0,True,False,Amsterdam,2024-10-20,5,0
+ITC Hotel,2,362,72.4,6.4,1644,1200.0,True,False,Amsterdam,2024-10-20,5,0
+De Mallemoolen,0,399,79.8,6.7,1189,600.0,True,False,Amsterdam,2024-10-20,5,0
+Avenue Hotel,3,589,117.8,7.3,4721,450.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel Prins Hendrik,3,560,112.0,8.0,4732,600.0,True,False,Amsterdam,2024-10-20,5,0
+Koopermoolen,2,595,119.0,7.4,2916,600.0,True,False,Amsterdam,2024-10-20,5,0
+Weber Hotel,2,562,112.4,8.1,1350,1200.0,True,False,Amsterdam,2024-10-20,5,0
+City Hotel,2,430,86.0,6.5,1187,900.0,True,False,Amsterdam,2024-10-20,5,0
+Amigo Hotel,0,2229,445.8,5.9,2980,3000.0,True,False,Amsterdam,2024-10-20,5,0
+Facade Hotel Amsterdam,2,892,178.4,7.3,3206,500.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel Continental Amsterdam,1,572,114.4,5.4,2308,400.0,True,False,Amsterdam,2024-10-20,5,0
+Hostel Warmoes Amsterdam,0,687,137.4,6.3,982,400.0,True,False,Amsterdam,2024-10-20,5,0
+Hotel Mosaic Appartments,3,7022,1404.4,7.5,266,1600.0,True,False,Amsterdam,2024-10-20,5,0
+Spacious homely house boat,3,1755,351.0,10,3,1400.0,True,False,Amsterdam,2024-10-20,5,0
+Orange Tulip Hotel,1,343,68.6,6.2,837,450.0,True,False,Amsterdam,2024-10-20,5,0
+The Social Hub Amsterdam City,4,1126,225.2,8.4,8149,2400.0,True,False,Amsterdam,2024-10-20,5,0
+Joy Hotel,3,461,92.2,7.4,7813,8500.0,True,False,Amsterdam,2024-10-20,5,0
+"Holiday Inn Express Amsterdam Arena Towers, an IHG Hotel",3,457,91.4,7.8,16470,7800.0,True,False,Amsterdam,2024-10-20,5,0
+OZO Hotels Arena Amsterdam,4,457,91.4,7.4,8325,8400.0,True,False,Amsterdam,2024-10-20,5,0
