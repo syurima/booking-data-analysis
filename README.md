@@ -1,6 +1,8 @@
 # Data Analysis Project
 
-This project involves data analysis and visualization using various machine learning models. The data is gathered from CSV files and analyzed using Python libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
+This project involves data analysis and visualization using various machine learning models. The data is scraped from Booking.com and analyzed using Python libraries such as pandas, numpy, matplotlib, seaborn. Various machine learning models are applied to predict the price of listings based on the data. 
+
+The project includes a Jupyter notebook with data analysis and visualization steps, as well as a Python script to gather data from Booking.com.
 
 
 ## Requirements
