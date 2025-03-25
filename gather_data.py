@@ -1,6 +1,7 @@
 import atexit
 import datetime
 import random
+import sys
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -11,6 +12,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 import pandas as pd
 import requests
+
+CITY = 'Amsterdam'
+REQUEST_NUMBER = 20
 
 def create_url(city: str, date: datetime.datetime, n_of_adults = 1, n_of_children = 0, currency='EUR') -> str:
     date_format = '%Y-%m-%d'
@@ -176,7 +180,7 @@ def save_data(data, params):
 def run_iteration(driver, url = None):
     # generate random url
     if not url: 
-        params = generate_params(city='Amsterdam', date_start=datetime.date.today() + datetime.timedelta(days=30), date_max_offset=400, max_adults=9, max_children=0)
+        params = generate_params(city=CITY, date_start=datetime.date.today() + datetime.timedelta(days=30), date_max_offset=400, max_adults=9, max_children=0)
         url = create_url(params['city'], params['date'], params['adults'], params['children'])
 
     soup = get_soup(driver, url)
@@ -198,12 +202,27 @@ def main():
     atexit.register(driver.quit)
     driver.maximize_window()
 
-    n = 20
-    for _ in range(n):
+    for _ in range(REQUEST_NUMBER):
         run_iteration(driver)
         time.sleep(random.uniform(1.5, 4))
 
     driver.quit()
 
 if __name__ == "__main__":
+    # command line arguments for city and number of requests
+    # ex. python gather_data.py --city "New York" --requests 100
+
+    if len(sys.argv) > 1:
+        for i in range(1, len(sys.argv), 2):
+            if sys.argv[i] == '--city' or sys.argv[i] == '-c':
+                try:
+                    CITY = sys.argv[i+1]
+                except ValueError:
+                    print('Invalid city name. Using default value.')
+            elif sys.argv[i] == '--requests' or sys.argv[i] == '-r':
+                try:
+                    REQUEST_NUMBER = int(sys.argv[i+1])
+                except ValueError:
+                    print('Invalid number of requests. Using default value.')
+
     main()
